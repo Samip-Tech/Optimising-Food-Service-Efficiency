@@ -1,4 +1,4 @@
-# Optimising-Food-Service-Efficiency
+# Arduino-Based Smart Food Service System
 I’m excited to share my Minor Project titled “Optimising Food Service Efficiency”, completed as part of my B.Tech in Electronics & Communication Engineering at National Institute of Technology Andhra Pradesh.
 
 🔍 Problem
